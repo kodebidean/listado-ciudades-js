@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    width: 100vw;
+    height: auto;
+    background-color: rgb(200, 250, 120,0.6);
+}
